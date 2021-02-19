@@ -198,4 +198,8 @@
 "name": "ContraForce",
 "allyCode": "759644619 ",
 },
+{
+"name": "Fr3sh",
+"allyCode": "225379181 ",
+},
 ]
