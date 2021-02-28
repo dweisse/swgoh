@@ -196,10 +196,14 @@
 },
 {
 "name": "ContraForce",
-"allyCode": "759644619 ",
+"allyCode": "759644619",
 },
 {
 "name": "Fr3sh",
-"allyCode": "225379181 ",
+"allyCode": "225379181",
+},
+{
+"name": "The not Mol Eliza",
+"allyCode": "229641197",
 },
 ]
