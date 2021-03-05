@@ -36,6 +36,7 @@
 {
 "name": "ufo1401",
 "allyCode": "975614441",
+"tagIdOnDrop": "271244204175392768",
 },
 {
 "name": "KitutheDestroyer",
