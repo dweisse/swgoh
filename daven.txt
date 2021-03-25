@@ -126,10 +126,12 @@
 {
 "name": "Ridiculus",
 "allyCode": "541476951",
+"tagIdOnClimb": "@Death Watch"
 },
 {
 "name": "HevelDevil",
 "allyCode": "267989348",
+"tagIdOnClimb": "@The Senate"
 },
 {
 "name": "Борис Бритва",
@@ -178,6 +180,7 @@
 {
 "name": "CT-1012 enokic",
 "allyCode": "261933493",
+"tagIdOnClimb": "@Crimson Dawn"
 },
 {
 "name": "Oldroper",
@@ -194,10 +197,12 @@
 {
 "name": "Strezz",
 "allyCode": "212846742",
+"tagIdOnClimb": "@High Ground"
 },
 {
 "name": "ContraForce",
 "allyCode": "759644619",
+"tagIdOnClimb": "@Unlimited Power"
 },
 {
 "name": "Fr3sh",
