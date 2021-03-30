@@ -24,6 +24,7 @@
 {
 "name": "discord gkwloki6878",
 "allyCode": "536552621",
+"tagIdOnDrop": "331869165847707668",
 },
 {
 "name": "Sinafa",
@@ -224,5 +225,9 @@
 {
 "name": "Viula Dourshe",
 "allyCode": "834857686",
+},
+{
+"name": "Dude",
+"allyCode": "758195824",
 },
 ]
