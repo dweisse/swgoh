@@ -115,6 +115,7 @@
 {
 "name": "CrashJones",
 "allyCode": "811252496",
+"tagIdOnClimb": "&826875276536315917"
 },
 {
 "name": "Itze",
@@ -229,5 +230,9 @@
 {
 "name": "Dude",
 "allyCode": "758195824",
+},
+{
+"name": "Dajda IV",
+"allyCode": "437164838",
 },
 ]
