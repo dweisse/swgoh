@@ -259,4 +259,8 @@
 "name": "TechnoPredators",
 "allyCode": "973263998",
 },
+{
+"name": "Illucian",
+"allyCode": "459886356",
+},
 ]
