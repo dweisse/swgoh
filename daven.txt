@@ -263,4 +263,12 @@
 "name": "Illucian",
 "allyCode": "459886356",
 },
+{
+"name": "EmperorDaps",
+"allyCode": "766966785",
+},
+{
+"name": "Thelonexxwolf",
+"allyCode": "992765545",
+},
 ]
