@@ -276,4 +276,12 @@
 "name": "Rekhinoo",
 "allyCode": "855873642",
 },
+{
+"name": "Mad Denis",
+"allyCode": "625631559",
+},
+{
+"name": "Santa Cruz",
+"allyCode": "665262366",
+},
 ]
