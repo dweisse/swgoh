@@ -284,4 +284,8 @@
 "name": "Santa Cruz",
 "allyCode": "665262366",
 },
+{
+"name": "Jadus",
+"allyCode": "936569391",
+},
 ]
