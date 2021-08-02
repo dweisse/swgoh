@@ -288,4 +288,8 @@
 "name": "Jadus",
 "allyCode": "936569391",
 },
+{
+"name": "Wulf",
+"allyCode": "953855593",
+},
 ]
