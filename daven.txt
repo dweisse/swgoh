@@ -33,6 +33,7 @@
 {
 "name": "Mazzah Ropy",
 "allyCode": "695945149",
+"tagIdOnDrop": "290932357874057218",
 },
 {
 "name": "ufo1401",
